@@ -1,16 +1,9 @@
 # meteo
 
-A new Flutter project.
+Proyecto desarrollado en Dart con el frameWork de desarrollo de apps híbridas móviles Flutter.
 
-## Getting Started
+Hace uso de recursos del terminal como las bbdd para almacenar diferentes zonas geográficas favoritas, gps y conexión a una web api metereológica para obtener los datos.
 
-This project is a starting point for a Flutter application.
+Incluyo dos videos que muestran el funcionamiento tanto en sistema tanto Android como iOS.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
